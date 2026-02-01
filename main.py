@@ -1,0 +1,1 @@
+print("Not the 1st day I'm opening GitHub")
